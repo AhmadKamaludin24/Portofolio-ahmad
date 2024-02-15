@@ -40,7 +40,7 @@ export default function Home() {
           <ul className="list flex justify-center sm:justify-start text-dark py-1 dark:text-gray-400">
             <li className="flex">
               <HiMiniCodeBracket className="text-xl mr-1" />
-              Front End Developer</li>
+              We are The Brajatikswa</li>
           </ul>
 
           <ul className="py-5 text-center sm:text-start text-dark dark:text-gray-400">
